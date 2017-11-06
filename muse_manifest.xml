@@ -1,0 +1,117 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_interior.css" crc="3769529683" ref="libre:galería:blog:contacto"/>
+    <file name="master_a-p_gina-maestra.css" crc="257035834" ref="libre:index:galería:blog:contacto"/>
+    <file name="libre.css" crc="310936362" ref="libre"/>
+    <file name="index.css" crc="247890334" ref="index"/>
+    <file name="galer_a.css" crc="107370016" ref="galería"/>
+    <file name="blog.css" crc="211879441" ref="blog"/>
+    <file name="contacto.css" crc="34051772" ref="contacto"/>
+  </folder>
+  <folder name="assets">
+    <file name="3d-image-hover.muse" crc="4274464501" mt="1439585414000"/>
+    <file name="comissions-1.jpg" crc="275867829" mt="1497042844000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:libre:galería:blog:contacto"/>
+    <file name="museutils.js" crc="4291592202" ref="index:libre:galería:blog:contacto"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:libre:galería:blog:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:libre"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:libre:galería:blog:contacto"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:libre:galería:blog:contacto"/>
+    <file name="webpro.js" crc="3903299128" ref="libre:galería:blog"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="libre:galería:blog"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="libre:galería:blog"/>
+    <file name="touchswipe.js" crc="4156838003" ref="libre:galería:blog"/>
+  </folder>
+  <folder name="images">
+    <file name="digimon gaia portada.jpg" crc="508458227" ref="index"/>
+    <file name="u554-6.png" crc="131823909" ref="index"/>
+    <file name="boton descarga.png" crc="474797949" ref="index"/>
+    <file name="boton descarga2.png" crc="383037798" ref="index"/>
+    <file name="boton descarga3.png" crc="3795741137" ref="index"/>
+    <file name="logo kbc.png" crc="337074113" ref="libre:galería:blog:contacto"/>
+    <file name="cover with titles-u657-fr.jpg" crc="4217675575" ref="libre"/>
+    <file name="cover with titles-u657-a-fr.jpg" crc="4217675575" ref="libre"/>
+    <file name="cort bandel-u664-fr.jpg" crc="490515687" ref="libre"/>
+    <file name="cort bandel-u664-a-fr.jpg" crc="490515687" ref="libre"/>
+    <file name="portada1-1-u666-fr.jpg" crc="4280892383" ref="libre"/>
+    <file name="dany and sara -u666-a-fr.jpg" crc="8606370" ref="libre"/>
+    <file name="dakimakura sara -u668-fr.jpg" crc="3813669757" ref="libre"/>
+    <file name="dakimakura sara -u668-a-fr.jpg" crc="3813669757" ref="libre"/>
+    <file name="fea-u670-fr.jpg" crc="4168549543" ref="libre"/>
+    <file name="poe-u756-fr.jpg" crc="78823214" ref="libre"/>
+    <file name="linda coloreada-u758-fr.jpg" crc="3829234228" ref="libre"/>
+    <file name="halloween-u784-fr.jpg" crc="445345019" ref="libre"/>
+    <file name="lyna and daniel sketch-u795-fr.jpg" crc="4270122865" ref="libre"/>
+    <file name="cover with titles-u659-fr.jpg" crc="3806647323" ref="libre"/>
+    <file name="cort bandel-u665-fr.jpg" crc="87520811" ref="libre"/>
+    <file name="dany and sara -u667-fr.jpg" crc="390634035" ref="libre"/>
+    <file name="dakimakura sara -u669-fr.jpg" crc="63113700" ref="libre"/>
+    <file name="fea-u671-fr.jpg" crc="4030976482" ref="libre"/>
+    <file name="poe-u757-fr.jpg" crc="4228726705" ref="libre"/>
+    <file name="linda coloreada-u759-fr.jpg" crc="3798727891" ref="libre"/>
+    <file name="halloween-u785-fr.jpg" crc="134449393" ref="libre"/>
+    <file name="lyna and daniel sketch-u796-fr.jpg" crc="4251750433" ref="libre"/>
+    <file name="banner de nutricion cu.jpg" crc="3877115961" ref="galería"/>
+    <file name="banner de nutricion cu798x360.jpg" crc="256794122" ref="galería"/>
+    <file name="blank.gif" crc="4208392903" ref="galería"/>
+    <file name="banner dia de la salud.jpg" crc="138448553" ref="galería"/>
+    <file name="cultura para la salud.jpg" crc="271282631" ref="galería"/>
+    <file name="dia del altruista.jpg" crc="403602077" ref="galería"/>
+    <file name="diabetes 1.jpg" crc="4241402712" ref="galería"/>
+    <file name="volantes dia de la salud icsa.jpg" crc="174687601" ref="galería"/>
+    <file name="adicciones 2.jpg" crc="3864233338" ref="galería"/>
+    <file name="anuncio-1.jpg" crc="369450638" ref="galería"/>
+    <file name="banner de velocidad 4.jpg" crc="444752747" ref="galería"/>
+    <file name="banner pilas 2.jpg" crc="4050573066" ref="galería"/>
+    <file name="conferencia cancer de mama 1.jpg" crc="3831902419" ref="galería"/>
+    <file name="conferencia imprimible b n .jpg" crc="497291679" ref="galería"/>
+    <file name="dia mundial del corazon 2.jpg" crc="357558665" ref="galería"/>
+    <file name="dia mundial del corazon.jpg" crc="3983413495" ref="galería"/>
+    <file name="erick.jpg" crc="4173325159" ref="galería"/>
+    <file name="lavado de manos 2.jpg" crc="215870909" ref="galería"/>
+    <file name="papanicolao.jpg" crc="4004592280" ref="galería"/>
+    <file name="poster 2.jpg" crc="4074073781" ref="galería"/>
+    <file name="seguro social 2.jpg" crc="4009346551" ref="galería"/>
+    <file name="star gordo.jpg" crc="3848778276" ref="galería"/>
+    <file name="calendario-agosto.jpg" crc="3873486860" ref="galería"/>
+    <file name="fase 4.jpg" crc="113433910" ref="galería"/>
+    <file name="banner de nutricion cu100x45.jpg" crc="4021081034" ref="galería"/>
+    <file name="banner dia de la salud60x87.jpg" crc="227703839" ref="galería"/>
+    <file name="cultura para la salud60x96.jpg" crc="4094388635" ref="galería"/>
+    <file name="dia del altruista60x81.jpg" crc="473348670" ref="galería"/>
+    <file name="diabetes 160x47.jpg" crc="3845111194" ref="galería"/>
+    <file name="volantes dia de la salud icsa60x51.jpg" crc="53553558" ref="galería"/>
+    <file name="adicciones 260x86.jpg" crc="378670971" ref="galería"/>
+    <file name="anuncio-160x47.jpg" crc="4143610584" ref="galería"/>
+    <file name="banner de velocidad 476x45.jpg" crc="3794263129" ref="galería"/>
+    <file name="banner pilas 262x45.jpg" crc="4139989182" ref="galería"/>
+    <file name="conferencia cancer de mama 160x47.jpg" crc="4141715730" ref="galería"/>
+    <file name="conferencia imprimible b n 60x47.jpg" crc="145673885" ref="galería"/>
+    <file name="dia mundial del corazon 260x78.jpg" crc="491949202" ref="galería"/>
+    <file name="dia mundial del corazon60x49.jpg" crc="4224814053" ref="galería"/>
+    <file name="erick60x47.jpg" crc="317122857" ref="galería"/>
+    <file name="lavado de manos 264x45.jpg" crc="33719260" ref="galería"/>
+    <file name="papanicolao70x45.jpg" crc="17547019" ref="galería"/>
+    <file name="poster 260x93.jpg" crc="3983181242" ref="galería"/>
+    <file name="seguro social 260x87.jpg" crc="111177937" ref="galería"/>
+    <file name="star gordo60x47.jpg" crc="288273222" ref="galería"/>
+    <file name="calendario-agosto70x45.jpg" crc="8231208" ref="galería"/>
+    <file name="fase 460x46.jpg" crc="326786814" ref="galería"/>
+    <file name="loading.gif" crc="3815509949" ref="galería"/>
+    <file name="dany line art520x722.jpg" crc="4135038094" ref="blog"/>
+    <file name="smallflower.jpg" crc="341264044" ref="blog"/>
+    <file name="bigflower.jpg" crc="3809040541" ref="blog"/>
+    <file name="leaves.jpg" crc="60416623" ref="blog"/>
+    <file name="u1284-4.png" crc="220060138" ref="contacto"/>
+    <file name="u1286-4.png" crc="4001819197" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="4086371532" mt="1509952559636" redirect="true"/>
+  <file name="libre.html" crc="183346101" mt="1509951885332" redirect="true"/>
+  <file name="galería.html" crc="51618843" mt="1509952483256" redirect="true"/>
+  <file name="blog.html" crc="105712201" mt="1509953195243" redirect="true"/>
+  <file name="contacto.html" crc="3812669039" mt="1509953490892" redirect="true"/>
+</manifest>
