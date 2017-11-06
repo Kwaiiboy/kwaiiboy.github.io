@@ -1,13 +1,13 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="master_interior.css" crc="3769529683" ref="libre:galería:blog:contacto"/>
-    <file name="master_a-p_gina-maestra.css" crc="257035834" ref="libre:index:galería:blog:contacto"/>
-    <file name="libre.css" crc="310936362" ref="libre"/>
-    <file name="index.css" crc="247890334" ref="index"/>
-    <file name="galer_a.css" crc="107370016" ref="galería"/>
-    <file name="blog.css" crc="211879441" ref="blog"/>
+    <file name="master_interior.css" crc="4056897523" ref="contacto:galería:libre:blog"/>
+    <file name="master_a-p_gina-maestra.css" crc="3990431623" ref="contacto:galería:libre:index:blog"/>
     <file name="contacto.css" crc="34051772" ref="contacto"/>
+    <file name="galer_a.css" crc="198958578" ref="galería"/>
+    <file name="libre.css" crc="310936362" ref="libre"/>
+    <file name="index.css" crc="123547034" ref="index"/>
+    <file name="blog.css" crc="506644893" ref="blog"/>
   </folder>
   <folder name="assets">
     <file name="3d-image-hover.muse" crc="4274464501" mt="1439585414000"/>
@@ -16,10 +16,9 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:libre:galería:blog:contacto"/>
     <file name="museutils.js" crc="4291592202" ref="index:libre:galería:blog:contacto"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:libre:galería:blog:contacto"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:libre"/>
     <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:libre:galería:blog:contacto"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:libre:galería:blog:contacto"/>
     <file name="jquery.watch.js" crc="4068933136" ref="index:libre:galería:blog:contacto"/>
     <file name="webpro.js" crc="3903299128" ref="libre:galería:blog"/>
     <file name="musewpslideshow.js" crc="138381373" ref="libre:galería:blog"/>
@@ -27,12 +26,13 @@
     <file name="touchswipe.js" crc="4156838003" ref="libre:galería:blog"/>
   </folder>
   <folder name="images">
-    <file name="digimon gaia portada.jpg" crc="508458227" ref="index"/>
-    <file name="u554-6.png" crc="131823909" ref="index"/>
+    <file name="dani bajo el mar.jpg" crc="4170451512" ref="index"/>
+    <file name="logo kbc.png" crc="337074113" ref="index"/>
+    <file name="u554-8.png" crc="520130972" ref="index"/>
     <file name="boton descarga.png" crc="474797949" ref="index"/>
     <file name="boton descarga2.png" crc="383037798" ref="index"/>
     <file name="boton descarga3.png" crc="3795741137" ref="index"/>
-    <file name="logo kbc.png" crc="337074113" ref="libre:galería:blog:contacto"/>
+    <file name="logo kbc2.png" crc="337074113" ref="libre:galería:blog:contacto"/>
     <file name="cover with titles-u657-fr.jpg" crc="4217675575" ref="libre"/>
     <file name="cover with titles-u657-a-fr.jpg" crc="4217675575" ref="libre"/>
     <file name="cort bandel-u664-fr.jpg" crc="490515687" ref="libre"/>
@@ -109,9 +109,9 @@
     <file name="u1284-4.png" crc="220060138" ref="contacto"/>
     <file name="u1286-4.png" crc="4001819197" ref="contacto"/>
   </folder>
-  <file name="index.html" crc="4086371532" mt="1509952559636" redirect="true"/>
-  <file name="libre.html" crc="183346101" mt="1509951885332" redirect="true"/>
-  <file name="galería.html" crc="51618843" mt="1509952483256" redirect="true"/>
-  <file name="blog.html" crc="105712201" mt="1509953195243" redirect="true"/>
-  <file name="contacto.html" crc="3812669039" mt="1509953490892" redirect="true"/>
+  <file name="index.html" crc="4181164241" mt="1509992691930" redirect="true"/>
+  <file name="libre.html" crc="215842756" mt="1509951885332" redirect="true"/>
+  <file name="galería.html" crc="4174504158" mt="1509952483256" redirect="true"/>
+  <file name="blog.html" crc="356251538" mt="1509953195243" redirect="true"/>
+  <file name="contacto.html" crc="530774745" mt="1509953490892" redirect="true"/>
 </manifest>
