@@ -1,13 +1,13 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="master_interior.css" crc="4056897523" ref="contacto:galería:libre:blog"/>
-    <file name="master_a-p_gina-maestra.css" crc="3990431623" ref="contacto:galería:libre:index:blog"/>
+    <file name="master_interior.css" crc="323452971" ref="galería:contacto:libre:blog"/>
+    <file name="master_a-p_gina-maestra.css" crc="3818134741" ref="galería:contacto:index:libre:blog"/>
+    <file name="galer_a.css" crc="108840629" ref="galería"/>
     <file name="contacto.css" crc="34051772" ref="contacto"/>
-    <file name="galer_a.css" crc="198958578" ref="galería"/>
+    <file name="index.css" crc="3935736523" ref="index"/>
     <file name="libre.css" crc="310936362" ref="libre"/>
-    <file name="index.css" crc="123547034" ref="index"/>
-    <file name="blog.css" crc="506644893" ref="blog"/>
+    <file name="blog.css" crc="178074799" ref="blog"/>
   </folder>
   <folder name="assets">
     <file name="3d-image-hover.muse" crc="4274464501" mt="1439585414000"/>
@@ -109,9 +109,9 @@
     <file name="u1284-4.png" crc="220060138" ref="contacto"/>
     <file name="u1286-4.png" crc="4001819197" ref="contacto"/>
   </folder>
-  <file name="index.html" crc="4181164241" mt="1509992691930" redirect="true"/>
-  <file name="libre.html" crc="215842756" mt="1509951885332" redirect="true"/>
-  <file name="galería.html" crc="4174504158" mt="1509952483256" redirect="true"/>
-  <file name="blog.html" crc="356251538" mt="1509953195243" redirect="true"/>
-  <file name="contacto.html" crc="530774745" mt="1509953490892" redirect="true"/>
+  <file name="index.html" crc="410618287" mt="1509994593913" redirect="true"/>
+  <file name="libre.html" crc="215842756" mt="1509994521345" redirect="true"/>
+  <file name="galería.html" crc="4174504158" mt="1509994521349" redirect="true"/>
+  <file name="blog.html" crc="356251538" mt="1509994521352" redirect="true"/>
+  <file name="contacto.html" crc="530774745" mt="1509994521358" redirect="true"/>
 </manifest>

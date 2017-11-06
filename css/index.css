@@ -51,16 +51,12 @@
 	left: 122px;
 }
 
-#u1348_clip
+#pu554-8
 {
-	overflow: hidden;
-	width: 190px;
-	height: 107px;
-}
-
-#u1348_img
-{
-	margin-bottom: -1px;
+	width: 0.01px;
+	margin-left: 210px;
+	margin-top: 104px;
+	position: relative;
 }
 
 #u554-8
@@ -68,9 +64,17 @@
 	z-index: 37;
 	display: block;
 	vertical-align: top;
-	margin-left: 210px;
-	margin-top: 104px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#untitled
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 96px;
+	left: 265px;
 }
 
 #menuu1300
@@ -95,10 +99,10 @@
 {
 	width: 98px;
 	min-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	color: #000000;
+	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -123,10 +127,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	color: #000000;
+	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -183,10 +187,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	color: #000000;
+	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -237,10 +241,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	color: #000000;
+	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -297,10 +301,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	color: #000000;
+	text-align: center;
+	line-height: 22px;
+	font-size: 18px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
