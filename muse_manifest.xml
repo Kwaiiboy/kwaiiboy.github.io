@@ -1,117 +1,210 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="master_interior.css" crc="4056897523" ref="contacto:galería:libre:blog"/>
-    <file name="master_a-p_gina-maestra.css" crc="3990431623" ref="contacto:galería:libre:index:blog"/>
-    <file name="contacto.css" crc="34051772" ref="contacto"/>
-    <file name="galer_a.css" crc="198958578" ref="galería"/>
-    <file name="libre.css" crc="310936362" ref="libre"/>
-    <file name="index.css" crc="123547034" ref="index"/>
-    <file name="blog.css" crc="506644893" ref="blog"/>
+    <file name="master_a-p_gina-maestra.css" crc="3803491615" ref="contacto:index:g.-libre:blog:g.-servicio"/>
+    <file name="contacto.css" crc="4256735004" ref="contacto"/>
+    <file name="index.css" crc="85270522" ref="index"/>
+    <file name="g_-libre.css" crc="4133128695" ref="g.-libre"/>
+    <file name="blog.css" crc="125162248" ref="blog"/>
+    <file name="g_-servicio.css" crc="4020730108" ref="g.-servicio"/>
   </folder>
   <folder name="assets">
     <file name="3d-image-hover.muse" crc="4274464501" mt="1439585414000"/>
     <file name="comissions-1.jpg" crc="275867829" mt="1497042844000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:libre:galería:blog:contacto"/>
-    <file name="museutils.js" crc="4291592202" ref="index:libre:galería:blog:contacto"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:libre"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:libre:galería:blog:contacto"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:libre:galería:blog:contacto"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:libre:galería:blog:contacto"/>
-    <file name="webpro.js" crc="3903299128" ref="libre:galería:blog"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="libre:galería:blog"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="libre:galería:blog"/>
-    <file name="touchswipe.js" crc="4156838003" ref="libre:galería:blog"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="museutils.js" crc="4291592202" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="pie.js" crc="3827607177" ref="index:g.-libre:g.-servicio:blog"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:blog"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="webpro.js" crc="3903299128" ref="g.-libre:g.-servicio"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="g.-libre:g.-servicio"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="g.-libre:g.-servicio"/>
+    <file name="touchswipe.js" crc="4156838003" ref="g.-libre:g.-servicio"/>
   </folder>
   <folder name="images">
-    <file name="dani bajo el mar.jpg" crc="4170451512" ref="index"/>
-    <file name="logo kbc.png" crc="337074113" ref="index"/>
-    <file name="u554-8.png" crc="520130972" ref="index"/>
-    <file name="boton descarga.png" crc="474797949" ref="index"/>
-    <file name="boton descarga2.png" crc="383037798" ref="index"/>
-    <file name="boton descarga3.png" crc="3795741137" ref="index"/>
-    <file name="logo kbc2.png" crc="337074113" ref="libre:galería:blog:contacto"/>
-    <file name="cover with titles-u657-fr.jpg" crc="4217675575" ref="libre"/>
-    <file name="cover with titles-u657-a-fr.jpg" crc="4217675575" ref="libre"/>
-    <file name="cort bandel-u664-fr.jpg" crc="490515687" ref="libre"/>
-    <file name="cort bandel-u664-a-fr.jpg" crc="490515687" ref="libre"/>
-    <file name="portada1-1-u666-fr.jpg" crc="4280892383" ref="libre"/>
-    <file name="dany and sara -u666-a-fr.jpg" crc="8606370" ref="libre"/>
-    <file name="dakimakura sara -u668-fr.jpg" crc="3813669757" ref="libre"/>
-    <file name="dakimakura sara -u668-a-fr.jpg" crc="3813669757" ref="libre"/>
-    <file name="fea-u670-fr.jpg" crc="4168549543" ref="libre"/>
-    <file name="poe-u756-fr.jpg" crc="78823214" ref="libre"/>
-    <file name="linda coloreada-u758-fr.jpg" crc="3829234228" ref="libre"/>
-    <file name="halloween-u784-fr.jpg" crc="445345019" ref="libre"/>
-    <file name="lyna and daniel sketch-u795-fr.jpg" crc="4270122865" ref="libre"/>
-    <file name="cover with titles-u659-fr.jpg" crc="3806647323" ref="libre"/>
-    <file name="cort bandel-u665-fr.jpg" crc="87520811" ref="libre"/>
-    <file name="dany and sara -u667-fr.jpg" crc="390634035" ref="libre"/>
-    <file name="dakimakura sara -u669-fr.jpg" crc="63113700" ref="libre"/>
-    <file name="fea-u671-fr.jpg" crc="4030976482" ref="libre"/>
-    <file name="poe-u757-fr.jpg" crc="4228726705" ref="libre"/>
-    <file name="linda coloreada-u759-fr.jpg" crc="3798727891" ref="libre"/>
-    <file name="halloween-u785-fr.jpg" crc="134449393" ref="libre"/>
-    <file name="lyna and daniel sketch-u796-fr.jpg" crc="4251750433" ref="libre"/>
-    <file name="banner de nutricion cu.jpg" crc="3877115961" ref="galería"/>
-    <file name="banner de nutricion cu798x360.jpg" crc="256794122" ref="galería"/>
-    <file name="blank.gif" crc="4208392903" ref="galería"/>
-    <file name="banner dia de la salud.jpg" crc="138448553" ref="galería"/>
-    <file name="cultura para la salud.jpg" crc="271282631" ref="galería"/>
-    <file name="dia del altruista.jpg" crc="403602077" ref="galería"/>
-    <file name="diabetes 1.jpg" crc="4241402712" ref="galería"/>
-    <file name="volantes dia de la salud icsa.jpg" crc="174687601" ref="galería"/>
-    <file name="adicciones 2.jpg" crc="3864233338" ref="galería"/>
-    <file name="anuncio-1.jpg" crc="369450638" ref="galería"/>
-    <file name="banner de velocidad 4.jpg" crc="444752747" ref="galería"/>
-    <file name="banner pilas 2.jpg" crc="4050573066" ref="galería"/>
-    <file name="conferencia cancer de mama 1.jpg" crc="3831902419" ref="galería"/>
-    <file name="conferencia imprimible b n .jpg" crc="497291679" ref="galería"/>
-    <file name="dia mundial del corazon 2.jpg" crc="357558665" ref="galería"/>
-    <file name="dia mundial del corazon.jpg" crc="3983413495" ref="galería"/>
-    <file name="erick.jpg" crc="4173325159" ref="galería"/>
-    <file name="lavado de manos 2.jpg" crc="215870909" ref="galería"/>
-    <file name="papanicolao.jpg" crc="4004592280" ref="galería"/>
-    <file name="poster 2.jpg" crc="4074073781" ref="galería"/>
-    <file name="seguro social 2.jpg" crc="4009346551" ref="galería"/>
-    <file name="star gordo.jpg" crc="3848778276" ref="galería"/>
-    <file name="calendario-agosto.jpg" crc="3873486860" ref="galería"/>
-    <file name="fase 4.jpg" crc="113433910" ref="galería"/>
-    <file name="banner de nutricion cu100x45.jpg" crc="4021081034" ref="galería"/>
-    <file name="banner dia de la salud60x87.jpg" crc="227703839" ref="galería"/>
-    <file name="cultura para la salud60x96.jpg" crc="4094388635" ref="galería"/>
-    <file name="dia del altruista60x81.jpg" crc="473348670" ref="galería"/>
-    <file name="diabetes 160x47.jpg" crc="3845111194" ref="galería"/>
-    <file name="volantes dia de la salud icsa60x51.jpg" crc="53553558" ref="galería"/>
-    <file name="adicciones 260x86.jpg" crc="378670971" ref="galería"/>
-    <file name="anuncio-160x47.jpg" crc="4143610584" ref="galería"/>
-    <file name="banner de velocidad 476x45.jpg" crc="3794263129" ref="galería"/>
-    <file name="banner pilas 262x45.jpg" crc="4139989182" ref="galería"/>
-    <file name="conferencia cancer de mama 160x47.jpg" crc="4141715730" ref="galería"/>
-    <file name="conferencia imprimible b n 60x47.jpg" crc="145673885" ref="galería"/>
-    <file name="dia mundial del corazon 260x78.jpg" crc="491949202" ref="galería"/>
-    <file name="dia mundial del corazon60x49.jpg" crc="4224814053" ref="galería"/>
-    <file name="erick60x47.jpg" crc="317122857" ref="galería"/>
-    <file name="lavado de manos 264x45.jpg" crc="33719260" ref="galería"/>
-    <file name="papanicolao70x45.jpg" crc="17547019" ref="galería"/>
-    <file name="poster 260x93.jpg" crc="3983181242" ref="galería"/>
-    <file name="seguro social 260x87.jpg" crc="111177937" ref="galería"/>
-    <file name="star gordo60x47.jpg" crc="288273222" ref="galería"/>
-    <file name="calendario-agosto70x45.jpg" crc="8231208" ref="galería"/>
-    <file name="fase 460x46.jpg" crc="326786814" ref="galería"/>
-    <file name="loading.gif" crc="3815509949" ref="galería"/>
-    <file name="dany line art520x722.jpg" crc="4135038094" ref="blog"/>
-    <file name="smallflower.jpg" crc="341264044" ref="blog"/>
-    <file name="bigflower.jpg" crc="3809040541" ref="blog"/>
-    <file name="leaves.jpg" crc="60416623" ref="blog"/>
-    <file name="u1284-4.png" crc="220060138" ref="contacto"/>
-    <file name="u1286-4.png" crc="4001819197" ref="contacto"/>
+    <file name="a-página-maestra-favicon.ico" crc="3796592810" ref="index:blog"/>
+    <file name="oceano-u1455-3-fr.jpg" crc="3760944237" ref="index:blog"/>
+    <file name="oceano.jpg" crc="4052159945" ref="index:blog"/>
+    <file name="logo kbc.png" crc="337074113" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="boton 1-normal260x260.png" crc="2411680" ref="index:blog"/>
+    <file name="boton 1-sobre260x260.png" crc="231313866" ref="index:blog"/>
+    <file name="boton 2-normal277x277.png" crc="140128683" ref="index:blog"/>
+    <file name="boton 2-sobre277x277.png" crc="154835442" ref="index:blog"/>
+    <file name="boton 3-capa 1273x273.png" crc="4205545376" ref="index:blog"/>
+    <file name="boton 3-capa 1 copia273x273.png" crc="4159632672" ref="index:blog"/>
+    <file name="boton 4-capa 2285x285.png" crc="4142806815" ref="index:blog"/>
+    <file name="boton 4-capa 2 copia285x285.png" crc="264031628" ref="index:blog"/>
+    <file name="boton 4.png" crc="3820728711" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u554-4.png" crc="490969519" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1410.png" crc="4283748488" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1410-r.png" crc="503965172" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1403.png" crc="118906657" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1403-r.png" crc="4115096835" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1427.png" crc="243490440" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1427-r.png" crc="346168713" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1432.png" crc="4118079305" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1432-r.png" crc="68930394" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1441.png" crc="294056906" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="u1441-r.png" crc="4228919335" ref="index:g.-libre:g.-servicio:blog:contacto"/>
+    <file name="boceto red-u1529-fr.jpg" crc="4036990300" ref="index"/>
+    <file name="arkna updated-u1522-fr.jpg" crc="45833400" ref="index"/>
+    <file name="boceto mer-u1530-fr.jpg" crc="191450421" ref="index"/>
+    <file name="aracne.jpg" crc="305284488" ref="g.-libre"/>
+    <file name="aracnitar.jpg" crc="271092146" ref="g.-libre"/>
+    <file name="arkan 2 punto 0.jpg" crc="4009158145" ref="g.-libre"/>
+    <file name="arkan y zu.jpg" crc="338778123" ref="g.-libre"/>
+    <file name="arkan.jpg" crc="39086010" ref="g.-libre"/>
+    <file name="alimento de amor.jpg" crc="44600264" ref="g.-libre"/>
+    <file name="all might emperor blcr.jpg" crc="4005863387" ref="g.-libre"/>
+    <file name="andros.jpg" crc="3980436271" ref="g.-libre"/>
+    <file name="arkna updated255x360.jpg" crc="98448311" ref="g.-libre"/>
+    <file name="arkna boceto.jpg" crc="4057146450" ref="g.-libre"/>
+    <file name="armored girl.jpg" crc="255940125" ref="g.-libre"/>
+    <file name="beach party.jpg" crc="4182370499" ref="g.-libre"/>
+    <file name="bienvenida.jpg" crc="41305494" ref="g.-libre"/>
+    <file name="boceto mer255x360.jpg" crc="3833036296" ref="g.-libre"/>
+    <file name="boceto red255x360.jpg" crc="3758370157" ref="g.-libre"/>
+    <file name="cort bandel.jpg" crc="3987778975" ref="g.-libre"/>
+    <file name="cover.jpg" crc="4113547145" ref="g.-libre"/>
+    <file name="crimson red coloreado.jpg" crc="4145446066" ref="g.-libre"/>
+    <file name="dakimakura sara .jpg" crc="4244181498" ref="g.-libre"/>
+    <file name="damian medina.jpg" crc="513167191" ref="g.-libre"/>
+    <file name="daniel .jpg" crc="4126298139" ref="g.-libre"/>
+    <file name="dany and sara .jpg" crc="3815325739" ref="g.-libre"/>
+    <file name="dany line art.jpg" crc="209402471" ref="g.-libre"/>
+    <file name="donnald cruz donnie.jpg" crc="3880431825" ref="g.-libre"/>
+    <file name="drosselmayer fase 2 (color).jpg" crc="279050781" ref="g.-libre"/>
+    <file name="drosselmayer fase 3.jpg" crc="373050589" ref="g.-libre"/>
+    <file name="elegantes, daniel y kat.jpg" crc="409236590" ref="g.-libre"/>
+    <file name="fea.jpg" crc="251152688" ref="g.-libre"/>
+    <file name="female dani.jpg" crc="189772454" ref="g.-libre"/>
+    <file name="final omega.jpg" crc="531031255" ref="g.-libre"/>
+    <file name="genero contrario.jpg" crc="66147654" ref="g.-libre"/>
+    <file name="halloween.jpg" crc="3934555236" ref="g.-libre"/>
+    <file name="hero sketch.jpg" crc="3853014533" ref="g.-libre"/>
+    <file name="inktober 3.jpg" crc="3823400503" ref="g.-libre"/>
+    <file name="inktober 4.jpg" crc="510729533" ref="g.-libre"/>
+    <file name="kato-dinheimer.jpg" crc="501400073" ref="g.-libre"/>
+    <file name="lala jester.jpg" crc="3938735977" ref="g.-libre"/>
+    <file name="le jester .jpg" crc="4247709599" ref="g.-libre"/>
+    <file name="linda coloreada.jpg" crc="421870048" ref="g.-libre"/>
+    <file name="linx.jpg" crc="531485005" ref="g.-libre"/>
+    <file name="lua .jpg" crc="4077082993" ref="g.-libre"/>
+    <file name="lua sketch.jpg" crc="168648938" ref="g.-libre"/>
+    <file name="lucy.jpg" crc="454385425" ref="g.-libre"/>
+    <file name="lyna and daniel sketch.jpg" crc="4179116246" ref="g.-libre"/>
+    <file name="poe.jpg" crc="145285778" ref="g.-libre"/>
+    <file name="poinstik (boceto2).jpg" crc="74284084" ref="g.-libre"/>
+    <file name="popet srpout boceto.jpg" crc="255666425" ref="g.-libre"/>
+    <file name="rex anotaciones.jpg" crc="4263642112" ref="g.-libre"/>
+    <file name="roshel.jpg" crc="4028028762" ref="g.-libre"/>
+    <file name="sara .jpg" crc="245054612" ref="g.-libre"/>
+    <file name="sara line art.jpg" crc="3784568861" ref="g.-libre"/>
+    <file name="thubmnail.jpg" crc="4171988091" ref="g.-libre"/>
+    <file name="tiara coloreada.jpg" crc="504071872" ref="g.-libre"/>
+    <file name="tu fortaleza es un chiste y tu debilidad un insulto.jpg" crc="3167279" ref="g.-libre"/>
+    <file name="walter nuts.jpg" crc="28617351" ref="g.-libre"/>
+    <file name="wip sara sexy.jpg" crc="3982785634" ref="g.-libre"/>
+    <file name="aracne60x76.jpg" crc="362272832" ref="g.-libre"/>
+    <file name="aracnitar60x71.jpg" crc="4232423719" ref="g.-libre"/>
+    <file name="arkan 2 punto 060x58.jpg" crc="4258429550" ref="g.-libre"/>
+    <file name="arkan y zu60x53.jpg" crc="154549500" ref="g.-libre"/>
+    <file name="arkan60x75.jpg" crc="371485658" ref="g.-libre"/>
+    <file name="alimento de amor60x49.jpg" crc="421639896" ref="g.-libre"/>
+    <file name="all might emperor blcr60x48.jpg" crc="3495139" ref="g.-libre"/>
+    <file name="andros60x71.jpg" crc="3972948388" ref="g.-libre"/>
+    <file name="arkna updated60x85.jpg" crc="2544452" ref="g.-libre"/>
+    <file name="armored girl60x75.jpg" crc="3853031328" ref="g.-libre"/>
+    <file name="beach party60x47.jpg" crc="4046427152" ref="g.-libre"/>
+    <file name="boceto mer60x85.jpg" crc="292347162" ref="g.-libre"/>
+    <file name="boceto red60x85.jpg" crc="331564872" ref="g.-libre"/>
+    <file name="cort bandel60x75.jpg" crc="202955078" ref="g.-libre"/>
+    <file name="crimson red coloreado60x78.jpg" crc="110424913" ref="g.-libre"/>
+    <file name="daniel 60x84.jpg" crc="4288136108" ref="g.-libre"/>
+    <file name="dany and sara 60x84.jpg" crc="4260461045" ref="g.-libre"/>
+    <file name="dany line art60x84.jpg" crc="4203128248" ref="g.-libre"/>
+    <file name="drosselmayer fase 2 (color)60x78.jpg" crc="215640472" ref="g.-libre"/>
+    <file name="drosselmayer fase 360x78.jpg" crc="387943124" ref="g.-libre"/>
+    <file name="elegantes, daniel y kat60x82.jpg" crc="4218555236" ref="g.-libre"/>
+    <file name="final omega60x78.jpg" crc="469941309" ref="g.-libre"/>
+    <file name="genero contrario60x46.jpg" crc="3987382792" ref="g.-libre"/>
+    <file name="halloween60x48.jpg" crc="495255549" ref="g.-libre"/>
+    <file name="hero sketch60x78.jpg" crc="3867372319" ref="g.-libre"/>
+    <file name="inktober 360x47.jpg" crc="448363241" ref="g.-libre"/>
+    <file name="inktober 460x52.jpg" crc="4056374707" ref="g.-libre"/>
+    <file name="kato-dinheimer60x61.jpg" crc="4125476387" ref="g.-libre"/>
+    <file name="lala jester60x78.jpg" crc="434471885" ref="g.-libre"/>
+    <file name="le jester 60x48.jpg" crc="3843768578" ref="g.-libre"/>
+    <file name="linda coloreada60x78.jpg" crc="489449851" ref="g.-libre"/>
+    <file name="linx60x75.jpg" crc="217489217" ref="g.-libre"/>
+    <file name="lua 60x55.jpg" crc="4216323778" ref="g.-libre"/>
+    <file name="lua sketch60x48.jpg" crc="503229179" ref="g.-libre"/>
+    <file name="lucy60x82.jpg" crc="4226211839" ref="g.-libre"/>
+    <file name="lyna and daniel sketch60x48.jpg" crc="3907710533" ref="g.-libre"/>
+    <file name="poe60x48.jpg" crc="4251140048" ref="g.-libre"/>
+    <file name="poinstik (boceto2)60x74.jpg" crc="106400397" ref="g.-libre"/>
+    <file name="rex anotaciones60x46.jpg" crc="4177775141" ref="g.-libre"/>
+    <file name="roshel60x81.jpg" crc="4280702976" ref="g.-libre"/>
+    <file name="sara 60x84.jpg" crc="4184447840" ref="g.-libre"/>
+    <file name="sara line art60x84.jpg" crc="3924237084" ref="g.-libre"/>
+    <file name="thubmnail60x60.jpg" crc="520716254" ref="g.-libre"/>
+    <file name="tiara coloreada60x78.jpg" crc="3940967890" ref="g.-libre"/>
+    <file name="tu fortaleza es un chiste y tu debilidad un insulto60x78.jpg" crc="375276774" ref="g.-libre"/>
+    <file name="wip sara sexy60x45.jpg" crc="4101005773" ref="g.-libre"/>
+    <file name="loading.gif" crc="3815509949" ref="g.-libre:g.-servicio"/>
+    <file name="adicciones 2.jpg" crc="4209884612" ref="g.-servicio"/>
+    <file name="banner de velocidad 4.jpg" crc="3919197270" ref="g.-servicio"/>
+    <file name="banner pilas 2.jpg" crc="330310305" ref="g.-servicio"/>
+    <file name="banner.jpg" crc="276112933" ref="g.-servicio"/>
+    <file name="conferencia cancer de mama 1.jpg" crc="3773113971" ref="g.-servicio"/>
+    <file name="conferencia imprimible b n .jpg" crc="151589129" ref="g.-servicio"/>
+    <file name="dia mundial del corazon 2.jpg" crc="101177991" ref="g.-servicio"/>
+    <file name="dia mundial del corazon.jpg" crc="276484532" ref="g.-servicio"/>
+    <file name="erick.jpg" crc="4070411766" ref="g.-servicio"/>
+    <file name="frio.jpg" crc="4039849927" ref="g.-servicio"/>
+    <file name="frio2.jpg" crc="472180875" ref="g.-servicio"/>
+    <file name="heroe.jpg" crc="51429100" ref="g.-servicio"/>
+    <file name="lavado de manos 2.jpg" crc="165634716" ref="g.-servicio"/>
+    <file name="papanicolao.jpg" crc="4194845852" ref="g.-servicio"/>
+    <file name="poster 2.jpg" crc="321641980" ref="g.-servicio"/>
+    <file name="nuevo lienzo.jpg" crc="3913035002" ref="g.-servicio"/>
+    <file name="nuevo lienzo2.jpg" crc="5757363" ref="g.-servicio"/>
+    <file name="reconocimiento.jpg" crc="213340787" ref="g.-servicio"/>
+    <file name="banner de nutricion icsa.jpg" crc="123607738" ref="g.-servicio"/>
+    <file name="banner dia de la salud.jpg" crc="223734206" ref="g.-servicio"/>
+    <file name="dia del altruista.jpg" crc="3784946621" ref="g.-servicio"/>
+    <file name="diabetes 1.jpg" crc="532949228" ref="g.-servicio"/>
+    <file name="seguro social 2.jpg" crc="3971788192" ref="g.-servicio"/>
+    <file name="star gordo.jpg" crc="343316564" ref="g.-servicio"/>
+    <file name="banner de velocidad 476x45.jpg" crc="123848369" ref="g.-servicio"/>
+    <file name="banner pilas 262x45.jpg" crc="3939766572" ref="g.-servicio"/>
+    <file name="banner60x45.jpg" crc="4287193039" ref="g.-servicio"/>
+    <file name="conferencia cancer de mama 160x47.jpg" crc="268412035" ref="g.-servicio"/>
+    <file name="conferencia imprimible b n 60x47.jpg" crc="440756083" ref="g.-servicio"/>
+    <file name="dia mundial del corazon 260x78.jpg" crc="11807375" ref="g.-servicio"/>
+    <file name="dia mundial del corazon60x49.jpg" crc="310309125" ref="g.-servicio"/>
+    <file name="erick60x47.jpg" crc="4287582117" ref="g.-servicio"/>
+    <file name="heroe60x45.jpg" crc="3855801315" ref="g.-servicio"/>
+    <file name="lavado de manos 264x45.jpg" crc="4216776265" ref="g.-servicio"/>
+    <file name="papanicolao70x45.jpg" crc="3847467073" ref="g.-servicio"/>
+    <file name="reconocimiento70x45.jpg" crc="62082642" ref="g.-servicio"/>
+    <file name="dia del altruista60x81.jpg" crc="3848892062" ref="g.-servicio"/>
+    <file name="diabetes 160x47.jpg" crc="302072884" ref="g.-servicio"/>
+    <file name="star gordo60x47.jpg" crc="470693522" ref="g.-servicio"/>
+    <file name="face.png" crc="309412241" ref="contacto"/>
+    <file name="dev.jpg" crc="3940601995" ref="contacto"/>
+    <file name="twet.png" crc="299795330" ref="contacto"/>
+    <file name="u1598-4.png" crc="4267740811" ref="contacto"/>
+    <file name="halloween.png" crc="4128095594" ref="blog"/>
   </folder>
-  <file name="index.html" crc="4181164241" mt="1509992691930" redirect="true"/>
-  <file name="libre.html" crc="215842756" mt="1509951885332" redirect="true"/>
-  <file name="galería.html" crc="4174504158" mt="1509952483256" redirect="true"/>
-  <file name="blog.html" crc="356251538" mt="1509953195243" redirect="true"/>
-  <file name="contacto.html" crc="530774745" mt="1509953490892" redirect="true"/>
+  <file name="index.html" crc="218425803" mt="1511770563864" redirect="true"/>
+  <file name="g.-libre.html" crc="3770161091" mt="1511773617791" redirect="true"/>
+  <file name="g.-servicio.html" crc="277356119" mt="1511772738477" redirect="true"/>
+  <file name="blog.html" crc="172967230" mt="1511774171408" redirect="true"/>
+  <file name="contacto.html" crc="3795373138" mt="1511774133005" redirect="true"/>
 </manifest>

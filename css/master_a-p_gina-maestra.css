@@ -1,187 +1,155 @@
-#u100
+#u1455-3
 {
-	border-color: #000000;
-	background-color: #7D77C5;
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	background: #FFFFFF url("../images/oceano-u1455-3-fr.jpg") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/oceano.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover !important;
+}
+
+#u1363,#u1456
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
 	position: relative;
 }
 
-#u102
+#u1458
 {
 	position: relative;
-	background: transparent url("../images/boton%20descarga.png") no-repeat left top;
+	background: transparent url("../images/boton%201-normal260x260.png") no-repeat left top;
 	background-size: contain !important;
 }
 
-#u102:hover
+#u1458:hover
 {
-	background: transparent url("../images/boton%20descarga2.png") no-repeat left top;
+	background: transparent url("../images/boton%201-sobre260x260.png") no-repeat left top;
 	background-size: contain !important;
 }
 
-#u102:active
+#u1470
 {
-	background: transparent url("../images/boton%20descarga3.png") no-repeat left top;
+	position: relative;
+	background: transparent url("../images/boton%202-normal277x277.png") no-repeat left top;
 	background-size: contain !important;
 }
 
-#u219
+#u1482
 {
-	background-color: transparent;
+	position: relative;
+	background: transparent url("../images/boton%202-normal277x277.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1470:hover,#u1482:hover
+{
+	background: transparent url("../images/boton%202-sobre277x277.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1483
+{
+	position: relative;
+	background: transparent url("../images/boton%203-capa%201273x273.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1483:hover
+{
+	background: transparent url("../images/boton%203-capa%201%20copia273x273.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1495
+{
+	position: relative;
+	background: transparent url("../images/boton%204-capa%202285x285.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1495:hover
+{
+	background: transparent url("../images/boton%204-capa%202%20copia285x285.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1410
+{
+	vertical-align: top;
+	background: url("../images/u1410.png") no-repeat 0px 0px;
 	position: relative;
 }
 
-#u222-4
+#u1409:hover #u1410
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	color: #000000;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
+	background: url("../images/u1410-r.png") no-repeat 0px 0px;
+}
+
+#u1403
+{
+	vertical-align: top;
+	background: url("../images/u1403.png") no-repeat 0px 0px;
 	position: relative;
 }
 
-#u219:hover #u222-4 p
+#u1400:hover #u1403
 {
-	color: #FFFFFF;
-	visibility: inherit;
+	background: url("../images/u1403-r.png") no-repeat 0px 0px;
 }
 
-#u219:active #u222-4 p
+#u1427
 {
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u246-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	color: #000000;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
+	vertical-align: top;
+	background: url("../images/u1427.png") no-repeat 0px 0px;
 	position: relative;
 }
 
-#u243:hover #u246-4 p
+#u1424:hover #u1427
 {
-	color: #FFFFFF;
-	visibility: inherit;
+	background: url("../images/u1427-r.png") no-repeat 0px 0px;
 }
 
-#u243:active #u246-4 p
+#u1432
 {
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u262-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	color: #000000;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
+	vertical-align: top;
+	background: url("../images/u1432.png") no-repeat 0px 0px;
 	position: relative;
 }
 
-#u260:hover #u262-4 p
+#u1431:hover #u1432
 {
-	color: #FFFFFF;
-	visibility: inherit;
+	background: url("../images/u1432-r.png") no-repeat 0px 0px;
 }
 
-#u260:active #u262-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u272-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	color: #000000;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
-	position: relative;
-}
-
-#u269:hover #u272-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u269:active #u272-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u100_align_to_page,#menuu217,#u218,#u242,#u243,#u259,#u260,#u266,#u269,#u273,#u274
+#u1448,#u1561,#menuu1381,#u1406,#u1409,#u1399,#u1400,#u1423,#u1424,#u1430,#u1431,#u1437,#u1440
 {
 	position: relative;
 }
 
-#u275-4
+#u1441
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	color: #000000;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
+	vertical-align: top;
+	background: url("../images/u1441.png") no-repeat 0px 0px;
 	position: relative;
 }
 
-#u274:hover #u275-4 p
+#u1440:hover #u1441
 {
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u274:active #u275-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u219.MuseMenuActive #u222-4 p,#u243.MuseMenuActive #u246-4 p,#u260.MuseMenuActive #u262-4 p,#u269.MuseMenuActive #u272-4 p,#u274.MuseMenuActive #u275-4 p
-{
-	color: #000000;
-	visibility: inherit;
+	background: url("../images/u1441-r.png") no-repeat 0px 0px;
 }
 
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u119,#u120
-{
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	position: relative;
-	border-width: 2px 0px 0px;
 }
 
